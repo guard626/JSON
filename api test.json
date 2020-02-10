@@ -1,0 +1,14 @@
+{
+  "leaderboard": [
+    {
+      "team": "team1",
+      "wins": 6,
+      "losses": 4
+    },
+    {
+      "team": "team2",
+      "wins": 4,
+      "losses": 6
+    }
+  ]
+}
