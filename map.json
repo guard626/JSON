@@ -2,707 +2,707 @@
   "map_type": [
     {
       "id": 0,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 1,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 2,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 3,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 4,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 5,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 6,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 7,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 8,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 9,
-      "string": "Arabia"
+      "string": "Arabia",
 	  "url": "https://imgur.com/mgNWYNJ.png"
     },
     {
       "id": 10,
-      "string": "Archipelago"
+      "string": "Archipelago",
 	  "url": "https://imgur.com/mjTFwlz.png"
     },
     {
       "id": 11,
-      "string": "Baltic"
+      "string": "Baltic",
 	  "url": "https://imgur.com/kRB7rwd.png"
     },
     {
       "id": 12,
-      "string": "Black Forest"
+      "string": "Black Forest",
 	  "url": "https://imgur.com/VvNDMJw.png"
     },
     {
       "id": 13,
-      "string": "Coastal"
+      "string": "Coastal",
 	  "url": "https://imgur.com/IQuCt5X.png"
     },
     {
       "id": 14,
-      "string": "Continental"
+      "string": "Continental",
 	  "url": "https://imgur.com/8ep41lV.png"
     },
     {
       "id": 15,
-      "string": "Crater Lake"
+      "string": "Crater Lake",
 	  "url": "https://imgur.com/JHiX5OV.png"
     },
     {
       "id": 16,
-      "string": "Fortress"
+      "string": "Fortress",
 	  "url": "https://imgur.com/5gLEKwD.png"
     },
     {
       "id": 17,
-      "string": "Gold Rush"
+      "string": "Gold Rush",
 	  "url": "https://imgur.com/X7bH3WQ.png"
     },
     {
       "id": 18,
-      "string": "Highland"
+      "string": "Highland",
 	  "url": "https://imgur.com/GFzPgQt.png"
     },
     {
       "id": 19,
-      "string": "Islands"
+      "string": "Islands",
 	  "url": "https://imgur.com/BUhicPj.png"
     },
     {
       "id": 20,
-      "string": "Mediterranean"
+      "string": "Mediterranean",
 	  "url": "https://imgur.com/9bkX9IV.png"
     },
     {
       "id": 21,
-      "string": "Migration"
+      "string": "Migration",
 	  "url": "https://imgur.com/L2tvwJQ.png"
     },
     {
       "id": 22,
-      "string": "Rivers"
+      "string": "Rivers",
 	  "url": "https://imgur.com/cT95FVX.png"
     },
     {
       "id": 23,
-      "string": "Team Islands"
+      "string": "Team Islands",
 	  "url": "https://imgur.com/fSf9BQ3.png"
     },
     {
       "id": 24,
-      "string": "Full Random"
+      "string": "Full Random",
 	  "url": "https://imgur.com/HEZwqAs.png"
     },
     {
       "id": 25,
-      "string": "Scandinavia"
+      "string": "Scandinavia",
 	  "url": "https://imgur.com/s0tr1j5.png"
     },
     {
       "id": 26,
-      "string": "Mongolia"
+      "string": "Mongolia",
 	  "url": "https://imgur.com/7NyD3HB.png"
     },
     {
       "id": 27,
-      "string": "Yucatan"
+      "string": "Yucatan",
 	  "url": "https://imgur.com/4E4bKeU.png"
     },
     {
       "id": 28,
-      "string": "Salt Marsh"
+      "string": "Salt Marsh",
 	  "url": "https://imgur.com/oqK5z0p.png"
     },
     {
       "id": 29,
-      "string": "Arena"
+      "string": "Arena",
 	  "url": "https://imgur.com/ghr0m3z.png"
     },
     {
       "id": 30,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },	
     {
       "id": 31,
-      "string": "Oasis"
+      "string": "Oasis",
 	  "url": "https://imgur.com/Tz0w51s.png"
     },
     {
       "id": 32,
-      "string": "Ghost Lake"
+      "string": "Ghost Lake",
 	  "url": "https://imgur.com/H0Q67iy.png"
     },
     {
       "id": 33,
-      "string": "Nomad"
+      "string": "Nomad",
 	  "url": "https://imgur.com/ZmuTWCi.png"
     },
     {
       "id": 34,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 35,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 36,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 37,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 38,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 39,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 40,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 41,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 42,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 43,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 44,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 45,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 46,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 47,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 48,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 49,
-      "string": "Iberia"
+      "string": "Iberia",
 	  "url": "https://imgur.com/JTjByXW.png"
     },
     {
       "id": 50,
-      "string": "Britain"
+      "string": "Britain",
 	  "url": "https://imgur.com/N66FPtm.png"
     },
     {
       "id": 51,
-      "string": "Mideast"
+      "string": "Mideast",
 	  "url": "https://imgur.com/V3FoSRk.png"
     },
     {
       "id": 52,
-      "string": "Texas"
+      "string": "Texas",
 	  "url": "https://imgur.com/dVXd8G5.png"
     },
     {
       "id": 53,
-      "string": "Italy"
+      "string": "Italy",
 	  "url": "https://imgur.com/zOFqPep.png"
     },
     {
       "id": 54,
-      "string": "Central America"
+      "string": "Central America",
 	  "url": "https://imgur.com/fszzoYD.png"
     },
     {
       "id": 55,
-      "string": "France"
+      "string": "France",
 	  "url": "https://imgur.com/qAWv9Bc.png"
     },
     {
       "id": 56,
-      "string": "Norse Lands"
+      "string": "Norse Lands",
 	  "url": "https://imgur.com/pQkz7Yp.png"
     },
     {
       "id": 57,
-      "string": "Sea of Japan (East Sea)"
+      "string": "Sea of Japan (East Sea)",
 	  "url": "https://imgur.com/E2D9bBc.png"
     },
     {
       "id": 58,
-      "string": "Byzantium"
+      "string": "Byzantium",
 	  "url": "https://imgur.com/RDclJcg.png"
     },
     {
       "id": 59,
-      "string": "Custom"
+      "string": "Custom",
 	  "url": ""
     },
     {
       "id": 60,
-      "string": "Random Land Map"
+      "string": "Random Land Map",
 	  "url": "https://imgur.com/3iCJ0hz.png"
     },
     {
       "id": 61,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },	
     {
       "id": 62,
-      "string": "Random Real World Map"
+      "string": "Random Real World Map",
 	  "url": "https://imgur.com/ahUGjTz.png"
     },
     {
       "id": 63,
-      "string": "Blind Random"
+      "string": "Blind Random",
 	  "url": "https://imgur.com/6Llw0vJ.png"
     },
     {
       "id": 64,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 65,
-      "string": "Random Special Map"
+      "string": "Random Special Map",
 	  "url": ""
     },
     {
       "id": 66,
-      "string": "Random Special Map"
+      "string": "Random Special Map",
 	  "url": ""
     },
     {
       "id": 67,
-      "string": "Acropolis"
+      "string": "Acropolis",
 	  "url": "https://imgur.com/Mt2WwF5.png"
     },
     {
       "id": 68,
-      "string": "Budapest"
+      "string": "Budapest",
 	  "url": "https://imgur.com/A5zw1uw.png"
     },
     {
       "id": 69,
-      "string": "Cenotes"
+      "string": "Cenotes",
 	  "url": "https://imgur.com/UIE99yM.png"
     },
     {
       "id": 70,
-      "string": "City of Lakes"
+      "string": "City of Lakes",
 	  "url": "https://imgur.com/TkdyfBt.png"
     },
     {
       "id": 71,
-      "string": "Golden Pit"
+      "string": "Golden Pit",
 	  "url": "https://imgur.com/7MejAaZ.png"
     },
     {
       "id": 72,
-      "string": "Hideout"
+      "string": "Hideout",
 	  "url": "https://imgur.com/aLsUr7N.png"
     },
     {
       "id": 73,
-      "string": "Hill Fort"
+      "string": "Hill Fort",
 	  "url": "https://imgur.com/oOetxc1.png"
     },
     {
       "id": 74,
-      "string": "Lombardia"
+      "string": "Lombardia",
 	  "url": "https://imgur.com/TRgB2Ls.png"
     },
     {
       "id": 75,
-      "string": "Steppe"
+      "string": "Steppe",
 	  "url": "https://imgur.com/83Z4NPQ.png"
     },
     {
       "id": 76,
-      "string": "Valley"
+      "string": "Valley",
 	  "url": "https://imgur.com/TgE27WZ.png"
     },
     {
       "id": 77,
-      "string": "MegaRandom"
+      "string": "MegaRandom",
 	  "url": "https://imgur.com/ge0BSSc.png"
     },
     {
       "id": 78,
-      "string": "Hamburger"
+      "string": "Hamburger",
 	  "url": "https://imgur.com/hJMsrvr.png"
     },
     {
       "id": 79,
-      "string": "CtR Random"
+      "string": "CtR Random",
 	  "url": "https://imgur.com/Zi7f5K7.png"
     },
     {
       "id": 80,
-      "string": "CtR Monsoon"
+      "string": "CtR Monsoon",
 	  "url": "https://imgur.com/yNPy5BZ.png"
     },
     {
       "id": 81,
-      "string": "CtR Pyramid Descent"
+      "string": "CtR Pyramid Descent",
 	  "url": "https://imgur.com/JzRKgZK.png"
     },
     {
       "id": 82,
-      "string": "CtR Spiral"
+      "string": "CtR Spiral",
 	  "url": "https://imgur.com/8i50Y9o.png"
     },
     {
       "id": 83,
-      "string": "Kilimanjaro"
+      "string": "Kilimanjaro",
 	  "url": "https://imgur.com/Epf6BmQ.png"
     },
     {
       "id": 84,
-      "string": "Mountain Pass"
+      "string": "Mountain Pass",
 	  "url": "https://imgur.com/A2quLO3.png"
     },
     {
       "id": 85,
-      "string": "Nile Delta"
+      "string": "Nile Delta",
 	  "url": "https://imgur.com/GA05KHF.png"
     },
     {
       "id": 86,
-      "string": "Serengeti"
+      "string": "Serengeti",
 	  "url": "https://imgur.com/4Ot9Jgn.png"
     },
     {
       "id": 87,
-      "string": "Socotra"
+      "string": "Socotra",
 	  "url": "https://imgur.com/t4Fn6Hn.png"
     },
     {
       "id": 88,
-      "string": "Amazon"
+      "string": "Amazon",
 	  "url": "https://imgur.com/AGEQN56.png"
     },
     {
       "id": 89,
-      "string": "China"
+      "string": "China",
 	  "url": "https://imgur.com/5ZKiLUc.png"
     },
     {
       "id": 90,
-      "string": "Horn of Africa"
+      "string": "Horn of Africa",
 	  "url": "https://imgur.com/cVIMDdo.png"
     },
     {
       "id": 91,
-      "string": "India"
+      "string": "India",
 	  "url": "https://imgur.com/Cb5tROg.png"
     },
     {
       "id": 92,
-      "string": "Madagascar"
+      "string": "Madagascar",
 	  "url": "https://imgur.com/UGI6CbE.png"
     },
     {
       "id": 93,
-      "string": "West Africa"
+      "string": "West Africa",
 	  "url": "https://imgur.com/6Cd85BB.png"
     },
     {
       "id": 94,
-      "string": "Bohemia"
+      "string": "Bohemia",
 	  "url": "https://imgur.com/tXnT4KP.png"
     },
     {
       "id": 95,
-      "string": "Earth"
+      "string": "Earth",
 	  "url": "https://imgur.com/EquOPfz.png"
     },
     {
       "id": 96,
-      "string": "Canyons"
+      "string": "Canyons",
 	  "url": "https://imgur.com/edyRJGL.png"
     },
     {
       "id": 97,
-      "string": "Enemy Archipelago"
+      "string": "Enemy Archipelago",
 	  "url": "https://imgur.com/rg8CYTv.png"
     },
     {
       "id": 98,
-      "string": "Enemy Islands"
+      "string": "Enemy Islands",
 	  "url": "https://imgur.com/RUJws1B.png"
     },
     {
       "id": 99,
-      "string": "Far Out"
+      "string": "Far Out",
 	  "url": "https://imgur.com/hL7yPtS.png"
     },
     {
       "id": 100,
-      "string": "Front Line"
+      "string": "Front Line",
 	  "url": "https://imgur.com/i5ndb1h.png"
     },
     {
       "id": 101,
-      "string": "Inner Circle"
+      "string": "Inner Circle",
 	  "url": "https://imgur.com/eIJPZsD.png"
     },
     {
       "id": 102,
-      "string": "Motherland"
+      "string": "Motherland",
 	  "url": "https://imgur.com/yXBV5u4.png"
     },
     {
       "id": 103,
-      "string": "Open Plains"
+      "string": "Open Plains",
 	  "url": "https://imgur.com/s3oFNzN.png"
     },
     {
       "id": 104,
-      "string": "Ring of Water"
+      "string": "Ring of Water",
 	  "url": "https://imgur.com/t3K8e57.png"
     },
     {
       "id": 105,
-      "string": "Snakepit"
+      "string": "Snakepit",
 	  "url": "https://imgur.com/n9Fqz09.png"
     },
     {
       "id": 106,
-      "string": "The Eye"
+      "string": "The Eye",
 	  "url": "https://imgur.com/9RcCIJw.png"
     },
     {
       "id": 107,
-      "string": "Australia"
+      "string": "Australia",
 	  "url": "https://imgur.com/sw1wXn4.png"
     },
     {
       "id": 108,
-      "string": "Indochina"
+      "string": "Indochina",
 	  "url": "https://imgur.com/IkWQ8Y4.png"
     },
     {
       "id": 109,
-      "string": "Indonesia"
+      "string": "Indonesia",
 	  "url": "https://imgur.com/5Apuq7n.png"
     },
     {
       "id": 110,
-      "string": "Strait of Malacca"
+      "string": "Strait of Malacca",
 	  "url": "https://imgur.com/hoOxgOr.png"
     },
     {
       "id": 111,
-      "string": "Philippines"
+      "string": "Philippines",
 	  "url": "https://imgur.com/Al4RIj4.png"
     },
     {
       "id": 112,
-      "string": "Bog Islands"
+      "string": "Bog Islands",
 	  "url": "https://imgur.com/dVKSwET.png"
     },
     {
       "id": 113,
-      "string": "Mangrove Jungle"
+      "string": "Mangrove Jungle",
 	  "url": "https://imgur.com/lwNlmWr.png"
     },
     {
       "id": 114,
-      "string": "Pacific Islands"
+      "string": "Pacific Islands",
 	  "url": "https://imgur.com/3tA1Adi.png"
     },
     {
       "id": 115,
-      "string": "Sandbank"
+      "string": "Sandbank",
 	  "url": "https://imgur.com/LTyI53P.png"
     },
     {
       "id": 116,
-      "string": "Water Nomad"
+      "string": "Water Nomad",
 	  "url": "https://imgur.com/bypwMM7.png"
     },
     {
       "id": 117,
-      "string": "Jungle Islands"
+      "string": "Jungle Islands",
 	  "url": "https://imgur.com/X0AuLkO.png"
     },
     {
       "id": 118,
-      "string": "Holy Line"
+      "string": "Holy Line",
 	  "url": "https://imgur.com/aRtNYJt.png"
     },
     {
       "id": 119,
-      "string": "Border Stones"
+      "string": "Border Stones",
 	  "url": "https://imgur.com/ujfqmdY.png"
     },
     {
       "id": 120,
-      "string": "Yin Yang"
+      "string": "Yin Yang",
 	  "url": "https://imgur.com/t1Dw92H.png"
     },
     {
       "id": 121,
-      "string": "Jungle Lanes"
+      "string": "Jungle Lanes",
 	  "url": "https://imgur.com/bJaVv78.png"
     },
     {
       "id": 122,
-      "string": "Alpine Lakes"
+      "string": "Alpine Lakes",
 	  "url": "https://imgur.com/S5Tbyyy.png"
     },
     {
       "id": 123,
-      "string": "Bogland"
+      "string": "Bogland",
 	  "url": "https://imgur.com/3M3o9qj.png"
     },
     {
       "id": 124,
-      "string": "Mountain Ridge"
+      "string": "Mountain Ridge",
 	  "url": "https://imgur.com/UMiJK11.png"
     },
     {
       "id": 125,
-      "string": "Ravines"
+      "string": "Ravines",
 	  "url": "https://imgur.com/zzsR40D.png"
     },
     {
       "id": 126,
-      "string": "Wolf Hill"
+      "string": "Wolf Hill",
 	  "url": "https://imgur.com/scx8GTx.png"
     },
     {
       "id": 127,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 128,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
 	{
       "id": 129,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
 	{
       "id": 130,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
 	{
       "id": 131,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 132,
-      "string": "Antarctica"
+      "string": "Antarctica",
 	  "url": "https://imgur.com/zl7DpSD.png"
     },
 	{
       "id": 133,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
 	{
       "id": 134,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
 	{
       "id": 135,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
 	{
       "id": 136,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 137,
-      "string": "Custom Map Pool"
+      "string": "Custom Map Pool",
 	  "url": ""
     },
 	{
       "id": 138,
-      "string": "null"
+      "string": "null",
 	  "url": ""
     },
     {
       "id": 139,
-      "string": "Golden Swamp"
+      "string": "Golden Swamp",
 	  "url": "https://imgur.com/5cXm89A.png"
     },
     {
       "id": 140,
-      "string": "Four Lakes"
+      "string": "Four Lakes",
 	  "url": "https://imgur.com/zCv6YDF.png"
     }
   ]
