@@ -1,0 +1,524 @@
+{
+  "map_type": [
+    {
+      "id": 9,
+      "string": "Arabia"
+      "icon_url": "https://imgur.com/mgNWYNJ.png"
+    },
+    {
+      "id": 10,
+      "string": "Archipelago"
+      "icon_url": "https://imgur.com/mjTFwlz.png"
+    },
+    {
+      "id": 11,
+      "string": "Baltic"
+      "icon_url": "https://imgur.com/kRB7rwd.png"
+    },
+    {
+      "id": 12,
+      "string": "Black Forest"
+      "icon_url": "https://imgur.com/VvNDMJw.png"
+    },
+    {
+      "id": 13,
+      "string": "Coastal"
+      "icon_url": "https://imgur.com/IQuCt5X.png"
+    },
+    {
+      "id": 14,
+      "string": "Continental"
+      "icon_url": "https://imgur.com/8ep41lV.png"
+    },
+    {
+      "id": 15,
+      "string": "Crater Lake"
+      "icon_url": "https://imgur.com/JHiX5OV.png"
+    },
+    {
+      "id": 16,
+      "string": "Fortress"
+      "icon_url": "https://imgur.com/5gLEKwD.png"
+    },
+    {
+      "id": 17,
+      "string": "Gold Rush"
+      "icon_url": "https://imgur.com/X7bH3WQ.png"
+    },
+    {
+      "id": 18,
+      "string": "Highland"
+      "icon_url": "https://imgur.com/GFzPgQt.png"
+    },
+    {
+      "id": 19,
+      "string": "Islands"
+      "icon_url": "https://imgur.com/BUhicPj.png"
+    },
+    {
+      "id": 20,
+      "string": "Mediterranean"
+      "icon_url": "https://imgur.com/9bkX9IV.png"
+    },
+    {
+      "id": 21,
+      "string": "Migration"
+      "icon_url": "https://imgur.com/L2tvwJQ.png"
+    },
+    {
+      "id": 22,
+      "string": "Rivers"
+      "icon_url": "https://imgur.com/cT95FVX.png"
+    },
+    {
+      "id": 23,
+      "string": "Team Islands"
+      "icon_url": "https://imgur.com/fSf9BQ3.png"
+    },
+    {
+      "id": 24,
+      "string": "Full Random"
+      "icon_url": "https://imgur.com/HEZwqAs.png"
+    },
+    {
+      "id": 25,
+      "string": "Scandinavia"
+      "icon_url": "https://imgur.com/s0tr1j5.png"
+    },
+    {
+      "id": 26,
+      "string": "Mongolia"
+      "icon_url": "https://imgur.com/7NyD3HB.png"
+    },
+    {
+      "id": 27,
+      "string": "Yucatan"
+      "icon_url": "https://imgur.com/4E4bKeU.png"
+    },
+    {
+      "id": 28,
+      "string": "Salt Marsh"
+      "icon_url": "https://imgur.com/oqK5z0p.png"
+    },
+    {
+      "id": 29,
+      "string": "Arena"
+      "icon_url": "https://imgur.com/ghr0m3z.png"
+    },
+    {
+      "id": 31,
+      "string": "Oasis"
+      "icon_url": "https://imgur.com/Tz0w51s.png"
+    },
+    {
+      "id": 32,
+      "string": "Ghost Lake"
+      "icon_url": "https://imgur.com/H0Q67iy.png"
+    },
+    {
+      "id": 33,
+      "string": "Nomad"
+      "icon_url": "https://imgur.com/ZmuTWCi.png"
+    },
+    {
+      "id": 49,
+      "string": "Iberia"
+      "icon_url": "https://imgur.com/JTjByXW.png"
+    },
+    {
+      "id": 50,
+      "string": "Britain"
+      "icon_url": "https://imgur.com/N66FPtm.png"
+    },
+    {
+      "id": 51,
+      "string": "Mideast",
+      "icon_url": "https://imgur.com/V3FoSRk.png"
+    },
+    {
+      "id": 52,
+      "string": "Texas",
+      "icon_url": "https://imgur.com/dVXd8G5.png"
+    },
+    {
+      "id": 53,
+      "string": "Italy",
+      "icon_url": "https://imgur.com/zOFqPep.png"
+    },
+    {
+      "id": 54,
+      "string": "Central America",
+      "icon_url": "https://imgur.com/fszzoYD.png"
+    },
+    {
+      "id": 55,
+      "string": "France",
+      "icon_url": "https://imgur.com/qAWv9Bc.png"
+    },
+    {
+      "id": 56,
+      "string": "Norse Lands",
+      "icon_url": "https://imgur.com/pQkz7Yp.png"
+    },
+    {
+      "id": 57,
+      "string": "Sea of Japan (East Sea)",
+      "icon_url": "https://imgur.com/E2D9bBc.png"
+    },
+    {
+      "id": 58,
+      "string": "Byzantium",
+      "icon_url": "https://imgur.com/RDclJcg.png"
+    },
+    {
+      "id": 59,
+      "string": "Custom",
+      "icon_url": "https://imgur.com/FP1oKbo.png"
+    },
+    {
+      "id": 60,
+      "string": "Random Land Map",
+      "icon_url": "https://imgur.com/3iCJ0hz.png"
+    },
+    {
+      "id": 62,
+      "string": "Random Real World Map",
+      "icon_url": "https://imgur.com/ahUGjTz.png"
+    },
+    {
+      "id": 63,
+      "string": "Blind Random",
+      "icon_url": "https://imgur.com/6Llw0vJ.png"
+    },
+    {
+      "id": 65,
+      "string": "Random Special Map",
+      "icon_url": "https://imgur.com/FP1oKbo.png"
+    },
+    {
+      "id": 66,
+      "string": "Random Special Map",
+      "icon_url": "https://imgur.com/FP1oKbo.png"
+    },
+    {
+      "id": 67,
+      "string": "Acropolis",
+      "icon_url": "https://imgur.com/Mt2WwF5.png"
+    },
+    {
+      "id": 68,
+      "string": "Budapest",
+      "icon_url": "https://imgur.com/A5zw1uw.png"
+    },
+    {
+      "id": 69,
+      "string": "Cenotes",
+      "icon_url": "https://imgur.com/UIE99yM.png"
+    },
+    {
+      "id": 70,
+      "string": "City of Lakes",
+      "icon_url": "https://imgur.com/TkdyfBt.png"
+    },
+    {
+      "id": 71,
+      "string": "Golden Pit",
+      "icon_url": "https://imgur.com/7MejAaZ.png"
+    },
+    {
+      "id": 72,
+      "string": "Hideout",
+      "icon_url": "https://imgur.com/aLsUr7N.png"
+    },
+    {
+      "id": 73,
+      "string": "Hill Fort",
+      "icon_url": "https://imgur.com/oOetxc1.png"
+    },
+    {
+      "id": 74,
+      "string": "Lombardia",
+      "icon_url": "https://imgur.com/TRgB2Ls.png"
+    },
+    {
+      "id": 75,
+      "string": "Steppe",
+      "icon_url": "https://imgur.com/83Z4NPQ.png"
+    },
+    {
+      "id": 76,
+      "string": "Valley",
+      "icon_url": "https://imgur.com/TgE27WZ.png"
+    },
+    {
+      "id": 77,
+      "string": "MegaRandom",
+      "icon_url": "https://imgur.com/ge0BSSc.png"
+    },
+    {
+      "id": 78,
+      "string": "Hamburger",
+      "icon_url": "https://imgur.com/hJMsrvr.png"
+    },
+    {
+      "id": 79,
+      "string": "CtR Random",
+      "icon_url": "https://imgur.com/Zi7f5K7.png"
+    },
+    {
+      "id": 80,
+      "string": "CtR Monsoon",
+      "icon_url": "https://imgur.com/yNPy5BZ.png"
+    },
+    {
+      "id": 81,
+      "string": "CtR Pyramid Descent",
+      "icon_url": "https://imgur.com/JzRKgZK.png"
+    },
+    {
+      "id": 82,
+      "string": "CtR Spiral",
+      "icon_url": "https://imgur.com/8i50Y9o.png"
+    },
+    {
+      "id": 83,
+      "string": "Kilimanjaro",
+      "icon_url": "https://imgur.com/Epf6BmQ.png"
+    },
+    {
+      "id": 84,
+      "string": "Mountain Pass",
+      "icon_url": "https://imgur.com/A2quLO3.png"
+    },
+    {
+      "id": 85,
+      "string": "Nile Delta",
+      "icon_url": "https://imgur.com/GA05KHF.png"
+    },
+    {
+      "id": 86,
+      "string": "Serengeti",
+      "icon_url": "https://imgur.com/4Ot9Jgn.png"
+    },
+    {
+      "id": 87,
+      "string": "Socotra",
+      "icon_url": "https://imgur.com/t4Fn6Hn.png"
+    },
+    {
+      "id": 88,
+      "string": "Amazon",
+      "icon_url": "https://imgur.com/AGEQN56.png"
+    },
+    {
+      "id": 89,
+      "string": "China",
+      "icon_url": "https://imgur.com/5ZKiLUc.png"
+    },
+    {
+      "id": 90,
+      "string": "Horn of Africa",
+      "icon_url": "https://imgur.com/cVIMDdo.png"
+    },
+    {
+      "id": 91,
+      "string": "India",
+      "icon_url": "https://imgur.com/Cb5tROg.png"
+    },
+    {
+      "id": 92,
+      "string": "Madagascar",
+      "icon_url": "https://imgur.com/UGI6CbE.png"
+    },
+    {
+      "id": 93,
+      "string": "West Africa",
+      "icon_url": "https://imgur.com/6Cd85BB.png"
+    },
+    {
+      "id": 94,
+      "string": "Bohemia",
+      "icon_url": "https://imgur.com/tXnT4KP.png"
+    },
+    {
+      "id": 95,
+      "string": "Earth",
+      "icon_url": "https://imgur.com/EquOPfz.png"
+    },
+    {
+      "id": 96,
+      "string": "Canyons",
+      "icon_url": "https://imgur.com/edyRJGL.png"
+    },
+    {
+      "id": 97,
+      "string": "Enemy Archipelago",
+      "icon_url": "https://imgur.com/rg8CYTv.png"
+    },
+    {
+      "id": 98,
+      "string": "Enemy Islands",
+      "icon_url": "https://imgur.com/RUJws1B.png"
+    },
+    {
+      "id": 99,
+      "string": "Far Out",
+      "icon_url": "https://imgur.com/hL7yPtS.png"
+    },
+    {
+      "id": 100,
+      "string": "Front Line",
+      "icon_url": "https://imgur.com/i5ndb1h.png"
+    },
+    {
+      "id": 101,
+      "string": "Inner Circle",
+      "icon_url": "https://imgur.com/eIJPZsD.png"
+    },
+    {
+      "id": 102,
+      "string": "Motherland",
+      "icon_url": "https://imgur.com/yXBV5u4.png"
+    },
+    {
+      "id": 103,
+      "string": "Open Plains",
+      "icon_url": "https://imgur.com/s3oFNzN.png"
+    },
+    {
+      "id": 104,
+      "string": "Ring of Water",
+      "icon_url": "https://imgur.com/t3K8e57.png"
+    },
+    {
+      "id": 105,
+      "string": "Snakepit",
+      "icon_url": "https://imgur.com/n9Fqz09.png"
+    },
+    {
+      "id": 106,
+      "string": "The Eye",
+      "icon_url": "https://imgur.com/9RcCIJw.png"
+    },
+    {
+      "id": 107,
+      "string": "Australia",
+      "icon_url": "https://imgur.com/sw1wXn4.png"
+    },
+    {
+      "id": 108,
+      "string": "Indochina",
+      "icon_url": "https://imgur.com/IkWQ8Y4.png"
+    },
+    {
+      "id": 109,
+      "string": "Indonesia",
+      "icon_url": "https://imgur.com/5Apuq7n.png"
+    },
+    {
+      "id": 110,
+      "string": "Strait of Malacca",
+      "icon_url": "https://imgur.com/hoOxgOr.png"
+    },
+    {
+      "id": 111,
+      "string": "Philippines",
+      "icon_url": "https://imgur.com/Al4RIj4.png"
+    },
+    {
+      "id": 112,
+      "string": "Bog Islands",
+      "icon_url": "https://imgur.com/dVKSwET.png"
+    },
+    {
+      "id": 113,
+      "string": "Mangrove Jungle",
+      "icon_url": "https://imgur.com/lwNlmWr.png"
+    },
+    {
+      "id": 114,
+      "string": "Pacific Islands",
+      "icon_url": "https://imgur.com/3tA1Adi.png"
+    },
+    {
+      "id": 115,
+      "string": "Sandbank",
+      "icon_url": "https://imgur.com/LTyI53P.png"
+    },
+    {
+      "id": 116,
+      "string": "Water Nomad",
+      "icon_url": "https://imgur.com/bypwMM7.png"
+    },
+    {
+      "id": 117,
+      "string": "Jungle Islands",
+      "icon_url": "https://imgur.com/X0AuLkO.png"
+    },
+    {
+      "id": 118,
+      "string": "Holy Line",
+      "icon_url": "https://imgur.com/aRtNYJt.png"
+    },
+    {
+      "id": 119,
+      "string": "Border Stones",
+      "icon_url": "https://imgur.com/ujfqmdY.png"
+    },
+    {
+      "id": 120,
+      "string": "Yin Yang",
+      "icon_url": "https://imgur.com/t1Dw92H.png"
+    },
+    {
+      "id": 121,
+      "string": "Jungle Lanes",
+      "icon_url": "https://imgur.com/bJaVv78.png"
+    },
+    {
+      "id": 122,
+      "string": "Alpine Lakes",
+      "icon_url": "https://imgur.com/S5Tbyyy.png"
+    },
+    {
+      "id": 123,
+      "string": "Bogland",
+      "icon_url": "https://imgur.com/3M3o9qj.png"
+    },
+    {
+      "id": 124,
+      "string": "Mountain Ridge",
+      "icon_url": "https://imgur.com/UMiJK11.png"
+    },
+    {
+      "id": 125,
+      "string": "Ravines",
+      "icon_url": "https://imgur.com/zzsR40D.png"
+    },
+    {
+      "id": 126,
+      "string": "Wolf Hill",
+      "icon_url": "https://imgur.com/scx8GTx.png"
+    },
+    {
+      "id": 132,
+      "string": "Antarctica",
+      "icon_url": "https://imgur.com/zl7DpSD.png"
+    },
+    {
+      "id": 137,
+      "string": "Custom Map Pool",
+      "icon_url": "https://imgur.com/FP1oKbo.png"
+    },
+    {
+      "id": 139,
+      "string": "Golden Swamp",
+      "icon_url": "https://imgur.com/5cXm89A.png"
+    },
+    {
+      "id": 140,
+      "string": "Four Lakes",
+	  "icon_url": "https://imgur.com/zCv6YDF.png"
+    }
+  ]
+}
