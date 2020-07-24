@@ -3,177 +3,177 @@
     {
       "id": 0,
       "string": "Aztecs",
-	  "emote": "<:aztecs:736203648559743006>"
+      "emote": "<:aztecs:736203648559743006>"
     },
     {
       "id": 1,
       "string": "Berbers",
-	  "emote": "<:berbers:736203648211615835>"
+      "emote": "<:berbers:736203648211615835>"
     },
     {
       "id": 2,
       "string": "Britons",
-	  "emote": "<:britons:736203648601948220>"
+      "emote": "<:britons:736203648601948220>"
     },
     {
       "id": 3,
       "string": "Bulgarians",
-	  "emote": "<:bulgarians:736203648740360292>"
+      "emote": "<:bulgarians:736203648740360292>"
     },
     {
       "id": 4,
       "string": "Burmese",
-	  "emote": "<:burmese:736203648551616606>"
+      "emote": "<:burmese:736203648551616606>"
     },
     {
       "id": 5,
       "string": "Byzantines",
-	  "emote": "<:byzantines:736203648899743764>"
+      "emote": "<:byzantines:736203648899743764>"
     },
     {
       "id": 6,
       "string": "Celts",
-	  "emote": "<:celts:736203649075642411>"
+      "emote": "<:celts:736203649075642411>"
     },
     {
       "id": 7,
       "string": "Chinese",
-	  "emote": "<:chinese:736203650422276130>"
+      "emote": "<:chinese:736203650422276130>"
     },
     {
       "id": 8,
       "string": "Cumans",
-	  "emote": "<:cumans:736203650174550097>"
+      "emote": "<:cumans:736203650174550097>"
     },
     {
       "id": 9,
       "string": "Ethiopians",
-	  "emote": "<:ethiopians:736203650686386238>"
+      "emote": "<:ethiopians:736203650686386238>"
     },
     {
       "id": 10,
       "string": "Franks",
-	  "emote": "<:franks:736203650539585616>"
+      "emote": "<:franks:736203650539585616>"
     },
     {
       "id": 11,
       "string": "Goths",
-	  "emote": "<:goths:736203650950758471>"
+      "emote": "<:goths:736203650950758471>"
     },
     {
       "id": 12,
       "string": "Huns",
-	  "emote": "<:huns:736203650682191973>"
+      "emote": "<:huns:736203650682191973>"
     },
     {
       "id": 13,
       "string": "Incas",
-	  "emote": "<:incas:736203650711683122>"
+      "emote": "<:incas:736203650711683122>"
     },
     {
       "id": 14,
       "string": "Indians",
-	  "emote": "<:indians:736203650946301952>"
+      "emote": "<:indians:736203650946301952>"
     },
     {
       "id": 15,
       "string": "Italians",
-	  "emote": "<:italians:736203650430533682>"
+      "emote": "<:italians:736203650430533682>"
     },
     {
       "id": 16,
       "string": "Japanese",
-	  "emote": "<:japanese:736203650392653845>"
+      "emote": "<:japanese:736203650392653845>"
     },
     {
       "id": 17,
       "string": "Khmer",
-	  "emote": "<:khmer:736203650870804480>"
+      "emote": "<:khmer:736203650870804480>"
     },
     {
       "id": 18,
       "string": "Koreans",
-	  "emote": "<:koreans:736203650602500217>"
+      "emote": "<:koreans:736203650602500217>"
     },
     {
       "id": 19,
       "string": "Lithuanians",
-	  "emote": "<:lithuanians:736203650552168469>"
+      "emote": "<:lithuanians:736203650552168469>"
     },
     {
       "id": 20,
       "string": "Magyars",
-	  "emote": "<:magyars:736203650623602698>"
+      "emote": "<:magyars:736203650623602698>"
     },
     {
       "id": 21,
       "string": "Malay",
-	  "emote": "<:malay:736203650875260928>"
+      "emote": "<:malay:736203650875260928>"
     },
     {
       "id": 22,
       "string": "Malians",
-	  "emote": "<:malians:736203650963210340>"
+      "emote": "<:malians:736203650963210340>"
     },
     {
       "id": 23,
       "string": "Mayans",
-	  "emote": "<:mayans:736203650573139999>"
+      "emote": "<:mayans:736203650573139999>"
     },
     {
       "id": 24,
       "string": "Mongols",
-	  "emote": "<:mongols:736203650728329266>"
+      "emote": "<:mongols:736203650728329266>"
     },
     {
       "id": 25,
       "string": "Persians",
-	  "emote": "<:persians:736203650669740074>"
+      "emote": "<:persians:736203650669740074>"
     },
     {
       "id": 26,
       "string": "Portuguese",
-	  "emote": "<:portuguese:736203650673803305>"
+      "emote": "<:portuguese:736203650673803305>"
     },
     {
       "id": 27,
       "string": "Saracens",
-	  "emote": "<:saracens:736203650329739387>"
+      "emote": "<:saracens:736203650329739387>"
     },
     {
       "id": 28,
       "string": "Slavs",
-	  "emote": "<:slavs:736203650694643763>"
+      "emote": "<:slavs:736203650694643763>"
     },
     {
       "id": 29,
       "string": "Spanish",
-	  "emote": "<:spanish:736203650350972941>"
+      "emote": "<:spanish:736203650350972941>"
     },
     {
       "id": 30,
       "string": "Tatars",
-	  "emote": "<:tatars:736203650913009724>"
+      "emote": "<:tatars:736203650913009724>"
     },
     {
       "id": 31,
       "string": "Teutons",
-	  "emote": "<:teutons:736203650740912160>"
+      "emote": "<:teutons:736203650740912160>"
     },
     {
       "id": 32,
       "string": "Turks",
-	  "emote": "<:turks:736203650879324232>"
+      "emote": "<:turks:736203650879324232>"
     },
     {
       "id": 33,
       "string": "Vietnamese",
-	  "emote": "<:vietnamese:736203650614951957>"
+      "emote": "<:vietnamese:736203650614951957>"
     },
     {
       "id": 34,
       "string": "Vikings",
-	  "emote": "<:vikings:736203650569076738>"
+      "emote": "<:vikings:736203650569076738>"
     }
   ]
 }
