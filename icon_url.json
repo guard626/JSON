@@ -524,6 +524,56 @@
       "id": 141,
       "string": "Land Nomad",
       "icon_url": "https://imgur.com/wYilTm9.png"
-    }
+    },
+	{
+	  "id": 142,
+	  "string": "BR Battle On Ice",
+	  "icon_url": ""
+	},
+	{
+	  "id": 143,
+	  "string": "BR El Dorado",
+	  "icon_url": ""
+	},
+	{
+	  "id": 144,
+	  "string": "BR Fall of Axum",
+	  "icon_url": ""
+	},
+	{
+	  "id": 145,
+	  "string": "BR Fall of Rome",
+	  "icon_url": ""
+	},
+	{
+	  "id": 146,
+	  "string": "BR Majapahit Empire",
+	  "icon_url": ""
+	},
+	{
+	  "id": 147,
+	  "string": "African Clearing",
+	  "icon_url": "https://imgur.com/nbCYvUO.png"
+	},
+	{
+	  "id": 148,
+	  "string": "Amazon Tunnel",
+	  "icon_url": "https://imgur.com/w4RkoTU.png"
+	},
+	{
+	  "id": 149,
+	  "string": "Atacama",
+	  "icon_url": "https://imgur.com/jmFPW6F.png"
+	},
+	{
+	  "id": 150,
+	  "string": "Coastal Forest",
+	  "icon_url": "https://imgur.com/eLM0Gco.png"
+	},
+	{
+	  "id": 151,
+	  "string": "Seize The Mountain",
+	  "icon_url": "https://imgur.com/DdYVbW1.png"
+	},
   ]
 }
